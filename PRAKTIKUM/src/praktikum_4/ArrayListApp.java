@@ -28,6 +28,7 @@ public class ArrayListApp {
 			 System.out.println(nama.get(i));
 		 }
 		 
-		 
+		 nama.clear();
+		 System.out.println(nama);
 	 }
 }
